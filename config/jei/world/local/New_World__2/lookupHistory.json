@@ -1,0 +1,12 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"electrodynamics:ingotsteel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"electrodynamics:duststeel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"superbwarfare:steel_barrel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"superbwarfare:rare_material_pack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"superbwarfare:steel_spring"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"superbwarfare:steel_action"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"superbwarfare:steel_trigger"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"superbwarfare:ak_47","components":{"geckolib:stack_animatable_id":2,"minecraft:custom_data":{"GunData":{"UUID":[-1586849694,904088260,-2117935468,542457812],"Exp":415.5765266418457,"Level":5,"Ammo":31,"CloseStrike":1}}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"touhou_little_maid:power_point"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

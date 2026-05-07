@@ -1,0 +1,8 @@
+# Ignore everything
+/*
+
+# But DO NOT ignore these folders
+!/mods/
+!/config/
+!/defaultconfigs/
+!/.gitignore
