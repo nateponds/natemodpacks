@@ -59,6 +59,13 @@
     "entity": true,
     "entity_variant": true
   },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
   "toms_storage": {
     "inventory_hopper": true,
     "inventory_config": true,
@@ -67,13 +74,6 @@
   "touhou_little_maid": {
     "maid": true,
     "shrine_lamp": true
-  },
-  "dynamictrees": {
-    "rooty_water": true,
-    "pod": true,
-    "fruit": true,
-    "rooty": true,
-    "branch": true
   },
   "jade": {
     "coordinates.rel": false,
@@ -85,6 +85,9 @@
     "registry_name": "OFF",
     "block_properties": false,
     "mod_name": true
+  },
+  "waystones": {
+    "waystone": true
   },
   "corpse": {
     "corpse": true

@@ -25,6 +25,10 @@
   "jade_access:entity_variant": null,
   "jade_access:held_item": null,
   "jade_access:sign": null,
+  "mekanism:data_provider": null,
+  "mekanism:entity_data_provider": null,
+  "mekanism:remove_builtin": null,
+  "mekanism:tooltip_renderer": null,
   "minecraft:animal_owner": null,
   "minecraft:armor_stand": null,
   "minecraft:beehive": null,
@@ -82,5 +86,6 @@
   "touhou_little_maid:maid": null,
   "touhou_little_maid:picnic_mat": null,
   "touhou_little_maid:shrine_lamp": null,
-  "touhou_little_maid:tombstone": null
+  "touhou_little_maid:tombstone": null,
+  "waystones:waystone": null
 }
