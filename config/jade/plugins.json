@@ -59,22 +59,6 @@
     "entity": true,
     "entity_variant": true
   },
-  "mekanism": {
-    "chemical": true,
-    "remove_builtin": true,
-    "fluid": true,
-    "energy": true,
-    "tooltip_renderer": true
-  },
-  "toms_storage": {
-    "inventory_hopper": true,
-    "inventory_config": true,
-    "inventory_connector": true
-  },
-  "touhou_little_maid": {
-    "maid": true,
-    "shrine_lamp": true
-  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,
@@ -92,12 +76,6 @@
     "wild_bush_tooltips": true,
     "hamster_genetics": true
   },
-  "waystones": {
-    "waystone": true
-  },
-  "corpse": {
-    "corpse": true
-  },
   "superbwarfare": {
     "dps_generator": true,
     "vehicle_deployer": true,
@@ -113,5 +91,30 @@
   },
   "balm": {
     "jade": true
+  },
+  "mekanism": {
+    "chemical": true,
+    "remove_builtin": true,
+    "fluid": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "toms_storage": {
+    "inventory_hopper": true,
+    "inventory_config": true,
+    "inventory_connector": true
+  },
+  "touhou_little_maid": {
+    "maid": true,
+    "shrine_lamp": true
+  },
+  "supplementaries": {
+    "hat_stand": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "corpse": {
+    "corpse": true
   }
 }
