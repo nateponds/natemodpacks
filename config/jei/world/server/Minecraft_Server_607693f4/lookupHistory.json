@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"iceandfire:dragon_skull_lightning","components":{"iceandfire:dragon_skull":{"stage":3,"dragonAge":73}}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"iceandfire:dragonbone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:standard","components":{"travelersbackpack:starter_upgrades":[{"id":"travelersbackpack:tanks_upgrade","count":1}]}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:gray_sleeping_bag"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"paraglider:deku_leaf"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
