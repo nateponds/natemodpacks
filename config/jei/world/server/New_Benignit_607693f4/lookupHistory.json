@@ -1,0 +1,9 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"createfood:sliced_potato"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:potato"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cuttingdelight:cutting_board"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"farmersdelight:cutting_board"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ubesdelight:ginger"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"ramadandelight:parsley"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
