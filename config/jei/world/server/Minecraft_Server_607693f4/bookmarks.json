@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"travelersbackpack:iron_tier_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"travelersbackpack:blank_upgrade"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"iceandfire:frost_lily"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:crushing_wheel"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"toms_storage:storage_terminal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"toms_storage:inventory_connector"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
