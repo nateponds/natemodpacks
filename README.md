@@ -1,2 +1,1 @@
-what is up my black people this is my new benignit modpack.
-do git clone or smth copy the mods folder no no need copy config thats js shi i do to sync my pc server to the repo kek bye
+this is just to be used for the nathanlab server to take a custom modpack to host
